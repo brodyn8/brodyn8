@@ -6,7 +6,7 @@
 -  **Projects :** 💻 Portfolio / Multifuntional Websites | 🤖 Discord Bots
 -  **Languages :** Javascript, HTML, CSS
 -  **Hobbies :** Football, Wrestling, Engineering
--  **Projects :** 🤖 [Plutoro](https://www.plutoro.com/) | [Portfolio / Forum Website](https://www.brodynewell.com/)
+-  **Projects :** 🤖 [Plutoro](https://www.plutoro.com/) | 💻 [Portfolio / Forum Website](https://www.brodynewell.com/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
